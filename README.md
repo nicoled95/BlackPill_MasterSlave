@@ -1,6 +1,5 @@
 # BlackPill_MasterSlave
 Multiplexado de 16 electrodos con 7 funciones diferentes
-  * @contact mail:  nicoledupuy95@gmail.com
   * ***************************************************************************
   * The following program allows control ADG1206 multiplexers.
   * These have their logic control pins connected to the output
